@@ -1,0 +1,65 @@
+body{
+    background-color: #337CA0;
+}
+main{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.product-page{
+    background-color: white;
+}
+.loginform{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+label{
+    color: #FEB933;
+    font-size: 30px;
+}
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+}
+button{
+    background-color: #FEB933;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    width: auto;
+    border-width: 25px;
+}
+.catalog, .cart, .reset{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.cards{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    background-color: white;
+    padding: 50px;
+    width: 30%;
+    margin: 10px;
+}
+.nav-right {
+    text-align: right;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+header{
+    color: white;
+    bbox-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    background-color: #337CA0;
+    padding: 50px;
+    width: auto;
+}
+
